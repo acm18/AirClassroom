@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_myv_bt1_zx">
+    <title>Directions to Shanks Hall from Blacksburg</title>
+    <shortdesc/>
+    <taskbody>
+        <context>Users that are traveling to Shanks from the town of Blacksburg can follow these
+            simple instructions to ensure their arrival to the building. <p>
+                <fig id="fig_dz5_dlf_zx">
+                    <title>Source: www.vt.edu</title>
+                    <image href="images/Screen%20Shot%202016-11-17%20at%201.36.04%20AM.png"
+                        id="image_ez5_dlf_zx"/>
+                </fig>
+            </p></context>
+        <steps>
+            <step>
+                <cmd>Drive northwest on North Main St. (i.e. from Mellow Mushroom to Sharkey's)
+                    toward Jackson St. NE. </cmd>
+            </step>
+            <step>
+                <cmd>Turn left onto Turner St. at the stoplight.</cmd>
+            </step>
+            <step>
+                <cmd>Follow Turner St. past McDonald's, Substation, and Zaxby's.</cmd>
+            </step>
+            <step>
+                <cmd>Turn right onto Gilbert St.</cmd>
+            </step>
+            <step>
+                <cmd>Follow the signs and directions posted along the street and parking lots to
+                    park in the Perry St. parking garage.</cmd>
+            </step>
+            <step>
+                <cmd>Walk East from the parking garage toward Barger St.</cmd>
+            </step>
+            <step>
+                <cmd>Make a slight right onto campus grounds and Shanks Hall will be right in front
+                    of you and its official univeristy-issued sign will be visible.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

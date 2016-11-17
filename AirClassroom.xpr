@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="18.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="AirClassroom.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized version="18.1" xml:space="preserve">
+                <map>
+                    <entry>
+                        <String>keys.context</String>
+                        <String>${pdu}/ProfMatthewWilson.ditamap</String>
+                    </entry>
+                </map>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="AirClassroom.xpr">
+        <folder path="."/>
+        <file name="c-resources.dita"/>
+    </projectTree>
+</project>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_icm_wx1_zx">
+    <title>How To Change or Cancel a Rental</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>If for some reason you need to adjust your resevation or cancel the classroom rental
+                entirely, see the steps below.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to <b>Your Reservations</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Select the specific classroom rental you would like to change or cancel.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Edit Reservation</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Change</b> or<b> Cancel</b> based on your needs.</cmd>
+                <info><b>Change</b>:</info>
+                <substeps id="substeps_j1l_w52_zx">
+                    <substep>
+                        <cmd>After choosing <b>Change</b>, proceed to the drop-down bar for
+                            additional options.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select from<b>Change Classroom</b>, <b>Change Date</b>, or <b>Change
+                                Time</b>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Follow the instructions on the webpage you are redirected to based upon
+                            your selection to adjust your reservation.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Once you are finished and satisfied with the new details of your
+                            rental, hit <b>Save Changes</b> to solidify and update your
+                            changes.</cmd>
+                    </substep>
+                </substeps>
+                <info><b>Cancel</b>:</info>
+                <substeps id="substeps_k1l_w52_zx">
+                    <substep>
+                        <cmd>After choosing <b>Cancel</b>, proceed to the webpage you are
+                            redicrected to.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>You will be asked to confirm the action of cancelling your reservation
+                            for certainty, select <b>Yes, Cancel</b>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Hit <b>Save Changes</b> to update your profile to no longer showcase
+                            your rental.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

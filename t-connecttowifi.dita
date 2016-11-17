@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_eys_lx1_zx">
+    <title>How To Connect to Virginia Tech Wifi</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>The deskptop computers located in Shanks 180 &amp; 360 are already connected to
+                Virginia Tech's on-campus wireless internet. If you are bringing additional
+                technology such as smart phones, laptops, tablets, etc., you will need to use these
+                instructions to connect those devices to Virginia Tech wifi. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to <b>Settings</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Wifi</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Choose <b>Virginia Tech</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Open a webpage in a browser such as Safari, Firefox, Google Chrome, Internet
+                    Explorer, etc.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <b>Guest</b>.</cmd>
+            </step>
+            <step>
+                <cmd>If you do not have an account, select <b>Create a new guest account</b>.</cmd>
+            </step>
+            <step>
+                <cmd>If you were given a guest wireless account, select <b>Login to guest
+                        wireless.</b></cmd>
+            </step>
+            <step>
+                <cmd>Follow the procedures on the screen to complete the login processes.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

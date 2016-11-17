@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_fgx_drb_zx">
+    <title>Directions to Shanks Hall from Campus</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Students or faculty that are wishing to take advantage the services that AirClassroom
+                provides can access Shanks Hall from campus extrememly easily. Shanks Hall is
+                easiest to access via Alumni Mall but can also be accessed by way of Turner St. and
+                North Main St. </p>
+            <p>
+                <fig id="fig_zbw_2lf_zx">
+                    <title>Source: www.vt.edu</title>
+                    <image href="images/Screen%20Shot%202016-11-17%20at%201.34.49%20AM.png"
+                        id="image_acw_2lf_zx"/>
+                </fig>
+            </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Beginning at Alumni Mall, walk in the direction moving away from Newman Library
+                    and Torgesen Bridge towards downtown Blacksburg.</cmd>
+            </step>
+            <step>
+                <cmd>Turn left at the staircase before Moss Arts Center.</cmd>
+            </step>
+            <step>
+                <cmd> Follow the stairs and concrete path up to the Upper Quad.</cmd>
+            </step>
+            <step>
+                <cmd>Turn left at Pearson Hall.</cmd>
+            </step>
+            <step>
+                <cmd>Walk straight towards Shanks Hall and its sign will be visible.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

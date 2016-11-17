@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gqx_vs1_zx">
+    <title>How To Rent a Room</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>So you've learned about our company and you want to move forward with renting a
+                classroom? Follow these simple steps to reserving a room through AirClassroom!</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>Create a Profile</b></cmd>
+                <info>A profile on AirClassroom is essential to using the services provided by our
+                    company. It gives you direct access to renting a classroom, editing existing
+                    rentals, or cancelling reservations if need be. Profiles also help our
+                    representatives to offer you specific advice or promotions based on your
+                    classroom needs.</info>
+            </step>
+            <step>
+                <cmd><b>Choose the Classroom</b></cmd>
+                <info>Choose between Shanks 160 or 360 based on availabitlity or preference. Both
+                    classrooms are sufficiently equipped to provide you with the space and
+                    ammenities for your needs.</info>
+            </step>
+            <step>
+                <cmd><b>Choose the Day/Time</b></cmd>
+                <info>Because there are some classes held in these rooms during the work week,
+                    AirClassroom cannot provide complete access to them 24/7. However, by partnering
+                    with Virginia Tech, AirClassroom is able to offer these rooms to users during an
+                    array of dates and times to accommodate their schedules and requirements. Choose
+                    the day and time that best fits your demand.</info>
+            </step>
+            <step>
+                <cmd><b>Rent!</b></cmd>
+                <info>Once everything is in order above, and your selections are made, select
+                        <b>Submit Rental Request</b> to complete the rental process. You will
+                    receive a same-day confirmation email to the contact information provided on
+                    your profile with the details of your room rental.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

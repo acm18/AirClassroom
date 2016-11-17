@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_jmx_qrb_zx">
+    <title>Directions to Campus from Christiansburg</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>
+                <fig id="fig_hdf_glf_zx">
+                    <title>Source: www.googlemaps.com</title>
+                    <image href="images/Screen%20Shot%202016-11-17%20at%2011.43.31%20AM.png"
+                        id="image_idf_glf_zx"/>
+                </fig>
+            </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Drive northwest on US-460 BUS W/N Franklin St. toward marvin Jarels Cir
+                    NE.</cmd>
+            </step>
+            <step>
+                <cmd>Continue to follow US-460 BUS W for 2 miles.</cmd>
+            </step>
+            <step>
+                <cmd>Take the ramp into US-460 W.</cmd>
+            </step>
+            <step>
+                <cmd>Continue to follow US-460 W for 6 miles.</cmd>
+            </step>
+            <step>
+                <cmd>Exit onto VA-412 N/Prices Fork Rd. toward Downtown Blacksburg.</cmd>
+            </step>
+            <step>
+                <cmd>Turn right onto Turner St. SW.</cmd>
+            </step>
+            <step>
+                <cmd>Follow Turner St. past McDonald's, Substation, and Zaxby's.</cmd>
+            </step>
+            <step>
+                <cmd>Turn right onto Gilbert St.</cmd>
+            </step>
+            <step>
+                <cmd>Follow the signs and directions posted along the street and parking lots to
+                    park in the Perry St. parking garage.</cmd>
+            </step>
+            <step>
+                <cmd>Walk East from the parking garage toward Barger St.</cmd>
+            </step>
+            <step>
+                <cmd>Make a slight right onto campus grounds and Shanks Hall will be right in front
+                    of you and its official univeristy-issued sign will be visible.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

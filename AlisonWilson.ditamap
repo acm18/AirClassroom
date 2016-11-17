@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title/>
+ <topicref href="c-introduction.dita"/>
+ <topicref href="c-aboutus.dita"/>
+ <topicref href="c-usertestimonies.dita"/>
+ <topicref href="c-services.dita"/>
+ <topicref href="t-directionsfrombburg.dita"/>
+ <topicref href="t-rentingclassroom.dita"/>
+ <topicref href="t-changecancel.dita"/>
+ <topicref href="t-connecttowifi.dita"/>
+ <topicref href="ts-lockedroom.dita"/>
+ <topicref href="ts-technologyissues.dita"/>
+ <topicref href="c-resources.dita"/>
+</map>
